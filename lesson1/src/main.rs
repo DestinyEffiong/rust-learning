@@ -21,7 +21,7 @@ fn main() {
     let project = "jack";
 
     // An unlocked box, because we plan to change it later.
-    let mut age = 18;
+    let age = 18;
 
     // Each {} is a slot, filled in order by the values after the string.
     println!("Hi, this is {}, he is {} years old. He lives in {}.", name, age, city);
@@ -29,7 +29,7 @@ fn main() {
 
     // No let here, so this is not a new box. It swaps what is inside
     // the existing age box. It only works because age has mut.
-    age = 29;
+    let age = 19;
     println!("A year later he is {} years old", age);
 
     // Try it: remove the // below and run cargo run.
