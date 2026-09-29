@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\SLIMDEV\rust-learning\milestone1\target\debug\deps\chacha20-7fdf33aa31886668.d: C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\chacha20-0.10.2\src\lib.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\chacha20-0.10.2\src\variants.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\chacha20-0.10.2\src\backends.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\chacha20-0.10.2\src\rng.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\chacha20-0.10.2\src\../README.md C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\chacha20-0.10.2\src\backends\soft.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\chacha20-0.10.2\src\backends\avx2.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\chacha20-0.10.2\src\backends\sse2.rs
+
+C:\Users\HP\Desktop\SLIMDEV\rust-learning\milestone1\target\debug\deps\libchacha20-7fdf33aa31886668.rmeta: C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\chacha20-0.10.2\src\lib.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\chacha20-0.10.2\src\variants.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\chacha20-0.10.2\src\backends.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\chacha20-0.10.2\src\rng.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\chacha20-0.10.2\src\../README.md C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\chacha20-0.10.2\src\backends\soft.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\chacha20-0.10.2\src\backends\avx2.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\chacha20-0.10.2\src\backends\sse2.rs
+
+C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\chacha20-0.10.2\src\lib.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\chacha20-0.10.2\src\variants.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\chacha20-0.10.2\src\backends.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\chacha20-0.10.2\src\rng.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\chacha20-0.10.2\src\../README.md:
+C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\chacha20-0.10.2\src\backends\soft.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\chacha20-0.10.2\src\backends\avx2.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\chacha20-0.10.2\src\backends\sse2.rs:

@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\SLIMDEV\rust-learning\milestone1\target\debug\deps\getrandom-66fb9adbed30b6cf.d: C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.4.3\src\lib.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.4.3\src\backends.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.4.3\src\error.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.4.3\src\util.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.4.3\src\error_std_impls.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.4.3\src\sys_rng.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.4.3\src\../README.md C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.4.3\src\backends\windows.rs
+
+C:\Users\HP\Desktop\SLIMDEV\rust-learning\milestone1\target\debug\deps\libgetrandom-66fb9adbed30b6cf.rmeta: C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.4.3\src\lib.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.4.3\src\backends.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.4.3\src\error.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.4.3\src\util.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.4.3\src\error_std_impls.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.4.3\src\sys_rng.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.4.3\src\../README.md C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.4.3\src\backends\windows.rs
+
+C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.4.3\src\lib.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.4.3\src\backends.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.4.3\src\error.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.4.3\src\util.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.4.3\src\error_std_impls.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.4.3\src\sys_rng.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.4.3\src\../README.md:
+C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.4.3\src\backends\windows.rs:
