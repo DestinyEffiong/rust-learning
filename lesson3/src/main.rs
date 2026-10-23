@@ -61,16 +61,17 @@ fn main() {
 
     // Guessing check
     let secret = 7;
-    let guess = 7;
+    let guess = 4;
 
-    if guess < secret {
-        println!("too low");
+    if guess > secret {
+        println!("too high");
     } else if guess == secret {
         println!("correct");
     } else {
-        println!("too high")
+        println!("too low");
     }
 
+    // Every path fills result, so it is never empty.
     let result = if guess == secret { "win" } else { "try again" };
     println!("{}", result);
 
